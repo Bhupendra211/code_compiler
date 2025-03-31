@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Sum of Two Numbers",
+      "description": "Write a function that takes two integers as input and returns their sum.",
+      "testCases": [
+        { "input": "3 5\n", "expected": "8" },
+        { "input": "10 20\n", "expected": "30" },
+        { "input": "-1 1\n", "expected": "0" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Check Even or Odd",
+      "description": "Write a program to check if a given number is even or odd.",
+      "testCases": [
+        { "input": "4\n", "expected": "Even" },
+        { "input": "7\n", "expected": "Odd" },
+        { "input": "0\n", "expected": "Even" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Factorial of a Number",
+      "description": "Write a function to calculate the factorial of a given number.",
+      "testCases": [
+        { "input": "5\n", "expected": "120" },
+        { "input": "3\n", "expected": "6" },
+        { "input": "0\n", "expected": "1" }
+      ]
+    }
+  ]
+  

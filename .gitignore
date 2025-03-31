@@ -1,0 +1,31 @@
+# AWS
+aws/
+# Node modules  
+node_modules/  
+npm-debug.log  
+yarn-error.log  
+package-lock.json  
+yarn.lock  
+
+# Environment variables  
+.env  
+
+# Logs  
+logs/  
+*.log  
+npm-debug.log*  
+yarn-debug.log*  
+yarn-error.log*  
+
+# Compiled files  
+dist/  
+build/  
+
+# Cache files  
+.cache/  
+.vscode/  
+.idea/  
+.DS_Store  
+
+# Redis dump files  
+dump.rdb  
